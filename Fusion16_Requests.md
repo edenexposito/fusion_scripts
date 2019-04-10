@@ -38,6 +38,11 @@ All the UI tests are made on 1920x1200 monitor.
 
 Other feature requests:
 
+## Viewer panel
+1. Pick color info show info in this status bar, this info must be placed near viewer. "Status viewer bar" is needed.
+2. Render bottom seems be placed in wrong place
+3. Add luminance and gamma sliders to viewer panels
+
 ## Console
 1. Expandable console UI with syntax highlighting
 2. Dockable Console UI
@@ -46,6 +51,7 @@ Other feature requests:
 ## Rendering
 1. Render queue branching
 2. Cache to disk format options
+3. Render bottom seems be placed in wrong place
 
 ## 3d
 1. Mesh clipping (not alpha, but real polygon slicing)
@@ -56,7 +62,10 @@ Other feature requests:
 6. Cast shadows from all lights. PBR Render (yes, I know)
 7. Advanced UV Mapping tool
 
-## Node Management
+## Node Management (Flow panel)
 1. Batch change properties for multiple selected nodes.
 2. Copy tool with keystroke-mouse drag
 3. Dock scripts UI in the main UI. 
+4. Add "dot" node
+5. Toolsbar must be in flow panel not under viewer panel.
+6. Sticky note and underlay can be unified in one "backdrop" tool
